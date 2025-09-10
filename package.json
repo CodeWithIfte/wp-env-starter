@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "wp-env start",
-    "stop": "wp-env stop"
+    "stop": "wp-env stop",
+    "destroy": "wp-env destroy"
   },
   "keywords": [],
   "author": "",

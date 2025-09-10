@@ -15,6 +15,16 @@ It comes with **MySQL** and **phpMyAdmin** support out of the box, so you can fo
 
 ---
 
+## ✅ Prerequisites
+
+Before you start, make sure you have installed:
+
+- [Docker](https://docs.docker.com/get-docker/) 🐳
+- [Node.js](https://nodejs.org/) (v16 or above recommended) 🟢
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+
+---
+
 ## 📂 Project Structure
 
 ```
